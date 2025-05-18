@@ -1,0 +1,45 @@
+INDEX,URL
+NIFTY 50,https://www.screener.in/api/company/1275135/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY BANK,https://www.screener.in/api/company/1272670/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY FINANCIAL SERVICES,https://www.screener.in/api/company/1272803/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY 500,https://www.screener.in/api/company/1272615/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY MIDCAP 100,https://www.screener.in/api/company/1272674/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY SMALLCAP 100,https://www.screener.in/api/company/1272791/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+INDIA VIX,https://www.screener.in/api/company/1272698/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY MICROCAP 250,https://www.screener.in/api/company/1284386/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY AUTO,https://www.screener.in/api/company/1272796/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY FMCG,https://www.screener.in/api/company/1272711/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY IT,https://www.screener.in/api/company/1272649/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY MEDIA,https://www.screener.in/api/company/1272799/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY METAL,https://www.screener.in/api/company/1272797/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY PHARMA,https://www.screener.in/api/company/1272672/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY PSU BANK,https://www.screener.in/api/company/1272693/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY PRIVATE BANK,https://www.screener.in/api/company/1274024/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY REALTY,https://www.screener.in/api/company/1272692/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY HEALTHCARE INDEX,https://www.screener.in/api/company/1275139/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY CONSUMER DURABLES,https://www.screener.in/api/company/1275138/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY OIL & GAS,https://www.screener.in/api/company/1275137/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY100 LOW VOLATILITY 30,https://www.screener.in/api/company/1274556/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY200 MOMENTUM 30,https://www.screener.in/api/company/1274792/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY500 MOMENTUM 50,https://www.screener.in/api/company/1285162/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY COMMODITIES,https://www.screener.in/api/company/1272802/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY INDIA CONSUMPTION,https://www.screener.in/api/company/1272795/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY CPSE,https://www.screener.in/api/company/1272892/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY ENERGY,https://www.screener.in/api/company/1272671/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY INFRASTRUCTURE,https://www.screener.in/api/company/1272689/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY MNC,https://www.screener.in/api/company/1272696/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY PSE,https://www.screener.in/api/company/1272714/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY SERVICES SECTOR,https://www.screener.in/api/company/1272770/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY INDIA DIGITAL,https://www.screener.in/api/company/1284387/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY INDIA MANUFACTURING,https://www.screener.in/api/company/1284384/chart/?q=Index+Price-Index+DMA50-Index+DMA200&days=365
+NIFTY INDIA DEFENCE,https://www.screener.in/api/company/1285154/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY INDIA TOURISM,https://www.screener.in/api/company/1285160/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY CAPITAL MARKETS,https://www.screener.in/api/company/1285161/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY EV & NEW AGE AUTOMOTIVE,https://www.screener.in/api/company/1285263/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY INDIA NEW AGE CONSUMPTION,https://www.screener.in/api/company/1285252/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY MOBILITY,https://www.screener.in/api/company/1285246/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY HOUSING,https://www.screener.in/api/company/1285245/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY IPO,https://www.screener.in/api/company/1285261/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY NON-CYCLICAL CONSUMER,https://www.screener.in/api/company/1285247/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY RURAL,https://www.screener.in/api/company/1285262/chart/?q=Price-DMA50-DMA200-Volume&days=365
+NIFTY TRANSPORTATION & LOGISTICS,https://www.screener.in/api/company/1285248/chart/?q=Price-DMA50-DMA200-Volume&days=365
